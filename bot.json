@@ -7,7 +7,7 @@
   },
   {
     "response_type": "greeting",
-    "user_input": ["see you", "goodbye", "bye"],
+    "user_input": ["see", "you", "goodbye", "bye"],
     "bot_response": "See you later!",
     "required_words": []
   },
